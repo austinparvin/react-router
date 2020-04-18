@@ -9,10 +9,6 @@ A  multiple page app, using react-router.
 
 # Includes: 
 
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://www.w3schools.com/css/)
-- [JAVASCRIPT](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 - [REACT](https://reactjs.org/docs/getting-started.html)
 - [REACT ROUTER DOM](https://www.npmjs.com/package/react-router-dom)
 
