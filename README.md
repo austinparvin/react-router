@@ -12,9 +12,6 @@ A  multiple page app, using react-router.
 - [REACT](https://reactjs.org/docs/getting-started.html)
 - [REACT ROUTER DOM](https://www.npmjs.com/package/react-router-dom)
 
-
-- [NETLIFY](https://docs.netlify.com/?_ga=2.56383019.1272475466.1587169866-1421079835.1583768648)
-
 ## Live Site
 
 [LIVE SITE](https://react-router-austinparvin.netlify.app/)
